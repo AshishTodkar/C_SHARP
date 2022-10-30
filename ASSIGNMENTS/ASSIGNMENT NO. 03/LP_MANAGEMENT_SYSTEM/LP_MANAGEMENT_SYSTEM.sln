@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LP_MANAGEMENT_SYSTEM", "LP_MANAGEMENT_SYSTEM\LP_MANAGEMENT_SYSTEM.csproj", "{098D5A61-303B-4655-89D2-B23B55B02718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HP_MANAGEMENT_SYSTEM", "..\..\ASSIGNMENT NO. 02\HP_MANAGEMENT_SYSTEM\HP_MANAGEMENT_SYSTEM\HP_MANAGEMENT_SYSTEM.csproj", "{3321FFA5-92B7-4B35-9938-63BC364A1A4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGM_MANAGEMENT_SYSTEM", "..\..\ASSIGNMENT NO. 01\SGM_MANAGEMENT_SYSTEM\SGM_MANAGEMENT_SYSTEM\SGM_MANAGEMENT_SYSTEM.csproj", "{F2CA19E6-6108-4522-A8DE-6430942CD2E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{098D5A61-303B-4655-89D2-B23B55B02718}.Debug|x86.ActiveCfg = Debug|x86
+		{098D5A61-303B-4655-89D2-B23B55B02718}.Debug|x86.Build.0 = Debug|x86
+		{098D5A61-303B-4655-89D2-B23B55B02718}.Release|x86.ActiveCfg = Release|x86
+		{098D5A61-303B-4655-89D2-B23B55B02718}.Release|x86.Build.0 = Release|x86
+		{3321FFA5-92B7-4B35-9938-63BC364A1A4E}.Debug|x86.ActiveCfg = Debug|x86
+		{3321FFA5-92B7-4B35-9938-63BC364A1A4E}.Debug|x86.Build.0 = Debug|x86
+		{3321FFA5-92B7-4B35-9938-63BC364A1A4E}.Release|x86.ActiveCfg = Release|x86
+		{3321FFA5-92B7-4B35-9938-63BC364A1A4E}.Release|x86.Build.0 = Release|x86
+		{F2CA19E6-6108-4522-A8DE-6430942CD2E8}.Debug|x86.ActiveCfg = Debug|x86
+		{F2CA19E6-6108-4522-A8DE-6430942CD2E8}.Debug|x86.Build.0 = Debug|x86
+		{F2CA19E6-6108-4522-A8DE-6430942CD2E8}.Release|x86.ActiveCfg = Release|x86
+		{F2CA19E6-6108-4522-A8DE-6430942CD2E8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
